@@ -1,0 +1,13 @@
+@import "../framework/framework";
+body {
+  font-family: "hacen", sans-serif;
+  background-image: url("../../img/background3.svg");
+    background-position: 0 0;
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+.tab-menu{
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0;
+}

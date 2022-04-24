@@ -1,0 +1,23 @@
+@import "../framework/framework";
+
+// start about 
+.dr-about-p {
+  width: 500px;
+  max-width: 90%;
+  margin: 0rem auto 3rem;
+  color: $brown;
+  line-height: 1.5;
+}
+
+.efada-about-logo {
+  position: relative;
+  display: block;
+  margin: auto;
+  width: 500px;
+  max-width: 80%;
+  opacity: 0.5;
+  z-index: -1;
+  margin-top: -1rem;
+}
+
+// end about 
